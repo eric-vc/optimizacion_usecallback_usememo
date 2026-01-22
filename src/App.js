@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import { ListadoProductos } from './ListadoProductos.jsx';
+import { ListadoProductosOptimizado } from './ListadoProductosOptimizado.jsx';
 
 function App() {
   return (
